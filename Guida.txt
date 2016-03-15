@@ -1,0 +1,4 @@
+make TOOLCHAIN=inihdp-bobsilvio stable
+
+USBTUNER:
+usbotunerhelper -f -l 255
